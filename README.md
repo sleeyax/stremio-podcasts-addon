@@ -8,6 +8,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
+** THIS REPOSITORY HAS BEEN MOVED TO [sleeyax/stremio-addons](https://git.io/JvQGc) **
+
 ## Features
 * Always included
     * Filter by genre (sorted)
